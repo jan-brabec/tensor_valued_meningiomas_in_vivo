@@ -1,4 +1,4 @@
-# tensor_valued_meningiomas_in_vivo
+# Tensor-valued diffusion MRI of meningiomas for preopretive classification and consistency estimation
 Code to the manuscript in prep: Tensor-valued diffusion MRI of meningiomas: Relation to consistency, histological type, grade and conventional dMRI.
 
 Data accessibility: Available is code used to process raw data from the scanner in the folder Process. The summary of the output data is available in the folder data (images themselves not publicly available but are upon reasonable request). The published data is enough to produce distributions and histograms but not images).
