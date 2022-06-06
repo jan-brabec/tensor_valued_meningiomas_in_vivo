@@ -1,7 +1,7 @@
 # Histogram analysis of tensor-valued diffusion MRI in meningiomas: Relation to consistency, histological grade and type
 Code to the article:
 
-*Brabec, J., Szczepankiewicz, F., Lennartsson, F., Englund, E., Pebdani, H., Bengzon, J., ... & Nilsson, M. (2022). Histogram analysis of tensor-valued diffusion MRI in meningiomas: Relation to consistency, histological grade and type. NeuroImage: Clinical, 33, 102912.*.
+*Brabec, J., Szczepankiewicz, F., Lennartsson, F., Englund, E., Pebdani, H., Bengzon, J., ... & Nilsson, M. (2022). Histogram analysis of tensor-valued diffusion MRI in meningiomas: Relation to consistency, histological grade and type. NeuroImage: Clinical, 33, 102912.*
 
 Data accessibility: Available is code used to process raw data (nifti files) in the folder Process. The summary of the output data is available in the folder data (images themselves not publicly available but are upon reasonable request, one slice for each subject shown in Supplementary material). The published data is enough to produce distributions and histograms but not images.
 
